@@ -4,7 +4,7 @@ from brainstorm import *
 from findquotes import *
 from outline import *
 from studyguide import *
-print('Welcome to CoStar AI. Please select a capability.')
+print('Welcome to Student Copilot AI. Please select a capability.')
 print('1. Summarizer')
 print('2. Translator')
 print('3. Brainstormer')
