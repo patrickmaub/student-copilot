@@ -7,7 +7,6 @@ Student Copilot AI is a powerful and versatile educational assistance tool desig
 - [Getting Started](#getting-started)
 - [Adding API Key](#adding-api-key)
 - [Usage](#usage)
-- [Licence](#licence)
 
 ## Features
 
